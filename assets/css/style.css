@@ -38,8 +38,6 @@ p, a, label {
     text-decoration: none;
 }
 .main-header-par {
-    height: 100px;
-    width: 100%;
     background-color: #fff;
     border-bottom: 2px solid #ccc;
 }
