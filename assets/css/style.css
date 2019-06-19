@@ -43,7 +43,7 @@ p, a, label {
 }
 .main-header-chi {
     height: 100px;
-    width: 960px;
+    max-width: 960px;
     margin: 0 auto;
     position: relative;
 }
@@ -57,11 +57,13 @@ p, a, label {
     font-weight: bold;
     position: absolute;
     bottom: 0;
+    margin: 0;
 }
 .navbar {
     position: absolute;
     right: 0;
     bottom: 20px;
+    padding-bottom: 0;
 }
 .navdiv {
     display: inline-block;
