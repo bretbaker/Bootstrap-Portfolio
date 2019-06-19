@@ -1,12 +1,3 @@
 body {
     background-image: url("../images/dust_scratches/dust_scratches.png");
 }
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-}
-p, a, label {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    line-height: 2rem;
-    color: #777;
-    font-weight: 500;
-}
