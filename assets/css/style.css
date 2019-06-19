@@ -37,13 +37,13 @@ p, a, label {
     color: #777;
     text-decoration: none;
 }
-.mainHeaderP {
+.main-header-par {
     height: 100px;
     width: 100%;
     background-color: #fff;
     border-bottom: 2px solid #ccc;
 }
-.mainHeaderC {
+.main-header-chi {
     height: 100px;
     width: 960px;
     margin: 0 auto;
@@ -70,14 +70,14 @@ p, a, label {
     color: #e8e8e8;
     margin: 0 5px;
 }
-.mainContent {
+.main-content {
     background-color: #fff;
     width: 960px;
     padding: 30px;
     margin: 30px auto;
     border: 1px solid #ddd;
 }
-.mainContentHead {
+.main-content-head {
     font-size: 24px;
     color: #4aaaa5;
     font-weight: bold;
@@ -85,7 +85,7 @@ p, a, label {
     padding-bottom: 20px;
     margin-bottom: 30px;
 }
-.abMeImg {
+.about-me-img {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
