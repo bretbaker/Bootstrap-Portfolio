@@ -1,1 +1,2 @@
-Coding Bootcamp HW Assignment #2, part 1.  A simple, sample portfolio webpage, consisting of three html files with bootstrap css only.
+- Coding Bootcamp HW Assignment #2, part 1.  
+- A responsive HTML website using semantic tags and Bootstrap CSS.
